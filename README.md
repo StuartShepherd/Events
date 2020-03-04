@@ -1,4 +1,4 @@
-# Delegate Example
+# Event Example
 An event can be used to provide notifications. You can subscribe to an event if you are interested in those notifications.
 
 ## Getting Started
